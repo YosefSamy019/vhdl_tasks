@@ -1,0 +1,33 @@
+library ieee;
+
+use ieee.std_logic_1164.all;
+use IEEE.std_logic_arith.all;
+use IEEE.std_logic_unsigned.all;
+
+entity com is
+
+port(
+a,b: in std_logic_vector(3 downto 0);
+u,l,e: out std_logic
+);
+
+end com;
+
+architecture arch of com is
+begin
+process(a,b)
+begin
+if (a>b) then u<= '1'; else u<= '0';
+end if;
+
+if (a=b) then e<= '1'; else e<= '0';
+end if;
+
+
+if (a<b) then l<= '1' ;else l<= '0';
+end if;
+
+
+end process;
+end arch;
+

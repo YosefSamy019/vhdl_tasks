@@ -1,0 +1,37 @@
+D:/Projects/vhdl/lab_revision_before_exam/half_adder_when_else.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/lab_revision_before_exam/half_adder_when_else.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HA_WHEN_ELSE
+-- Compiling architecture arc of HA_WHEN_ELSE
+
+} {} {}} D:/Projects/vhdl/lab_revision_before_exam/with_select.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/lab_revision_before_exam/with_select.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity with_select_method
+-- Compiling architecture arc of with_select_method
+
+} {} {}} D:/Projects/vhdl/lab_revision_before_exam/demux_8_1_if_else.vhd {2 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/lab_revision_before_exam/demux_8_1_if_else.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity demux
+-- Compiling architecture arch of demux
+** Warning: D:/Projects/vhdl/lab_revision_before_exam/demux_8_1_if_else.vhd(26): (vcom-1272) Length of expected is 8; length of actual is 7.
+** Warning: D:/Projects/vhdl/lab_revision_before_exam/demux_8_1_if_else.vhd(27): (vcom-1272) Length of expected is 8; length of actual is 7.
+
+} {} {}} D:/Projects/vhdl/lab_revision_before_exam/comparator.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/lab_revision_before_exam/comparator.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity com
+-- Compiling architecture arch of com
+
+} {} {}}

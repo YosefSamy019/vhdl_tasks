@@ -1,0 +1,171 @@
+D:/Projects/vhdl/t_flip_flop.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/t_flip_flop.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity t_flipflop
+-- Compiling architecture tff of t_flipflop
+
+} {} {}} D:/Projects/vhdl/bcd_adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/bcd_adder.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity bcd
+-- Compiling architecture st of bcd
+
+} {} {}} D:/Projects/vhdl/nine_complement.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/nine_complement.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity nine_com
+-- Compiling architecture nc of nine_com
+
+} {} {}} D:/Projects/vhdl/rom.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/rom.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity rom
+-- Compiling architecture data of rom
+
+} {} {}} D:/Projects/vhdl/siso_shift_register.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/siso_shift_register.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity siso
+-- Compiling architecture data of siso
+
+} {} {}} D:/Projects/vhdl/d_latch.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/d_latch.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity d_latch
+-- Compiling architecture dl of d_latch
+
+} {} {}} D:/Projects/vhdl/serial_adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/serial_adder.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity serial_adder
+-- Compiling architecture sa of serial_adder
+
+} {} {}} D:/Projects/vhdl/d_flipflop.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/d_flipflop.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity d_flipflop
+-- Compiling architecture dff of d_flipflop
+
+} {} {}} D:/Projects/vhdl/bcd_adder_subtractor.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/bcd_adder_subtractor.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity bcd_adder_sub
+-- Compiling architecture b_a_s of bcd_adder_sub
+
+} {} {}} D:/Projects/vhdl/jk_flipflop.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/jk_flipflop.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity jk_flipflop
+-- Compiling architecture jkff of jk_flipflop
+
+} {} {}} D:/Projects/vhdl/quad_2to1_mux.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/quad_2to1_mux.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity quad_2_to_1_mux
+-- Compiling architecture qm of quad_2_to_1_mux
+
+} {} {}} D:/Projects/vhdl/test_code.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/test_code.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity Rrom
+-- Compiling architecture arch of Rrom
+
+} {} {}} D:/Projects/vhdl/moore_circuit_lab.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/moore_circuit_lab.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity SM
+-- Compiling architecture data of SM
+
+} {} {}} D:/Projects/vhdl/full_adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/full_adder.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity fulladder
+-- Compiling architecture FA of fulladder
+
+} {} {}} D:/Projects/vhdl/ripple_counter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/ripple_counter.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ripple_counter
+-- Compiling architecture data of ripple_counter
+
+} {} {}} D:/Projects/vhdl/up_down_counter.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/up_down_counter.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter
+-- Compiling architecture data of counter
+
+} {} {}} D:/Projects/vhdl/full_bit_binary_adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none D:/Projects/vhdl/full_bit_binary_adder.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity f_b_a
+-- Compiling architecture st of f_b_a
+
+} {} {}}

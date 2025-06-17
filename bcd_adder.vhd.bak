@@ -1,0 +1,42 @@
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
+
+entity bcd is
+port(
+a,b: in std_logic_vector(3 downto 0);
+cin: in std_logic;
+sum: out std_logic_vector(3 downto 0);
+cout: out std_logic
+);
+end bcd;
+
+architecture st of bcd is
+
+component f_b_a is 
+port(
+a,b:in std_logic_vector(3 downto 0);
+cin: in std_logic;
+s:out std_logic_vector (3 downto 0);
+cout: out std_logic
+);
+
+end component;
+
+signal s,temp: std_logic_vector(3 downto 0);
+signal x: std_logic;
+signal k: std_logic_vector(1 downto 0);
+begin
+
+l0: f_b_a port map (a,b,cin,s,k(0));
+k(1) <= k(0) or (s(3) and s(2)) or (s(3) and s(1));
+cout <= k(1);
+temp <= '0' & k(1) & k(1) & '0';
+
+l1: f_b_a port map (s,temp,'0',sum,x);
+end st;
+
+
+

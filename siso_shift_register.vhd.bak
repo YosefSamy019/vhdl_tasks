@@ -1,0 +1,30 @@
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
+
+entity siso is 
+port(
+clk,i: in std_logic;
+shift:in std_logic;
+q: out std_logic
+);
+end siso;
+
+architecture data of siso is
+signal s : std_logic_vector(3 downto 0);
+begin
+
+process(clk,i,shift)
+begin
+
+if rising_edge(clk) then
+	if shift = '1' then
+		s<= i & s(3 downto 0);
+	end if;
+end if;
+end process;
+q<= s(0);
+end data;
+

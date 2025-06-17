@@ -1,0 +1,294 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Projects/vhdl
+T_opt
+!s110 1672611625
+V;KI<JHOT3=hND;7YJ:^Gc0
+04 5 4 work demux arch 1
+=1-ec2e98724f07-63b20729-e9-1888
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1672612281
+V4L8k2?WVG^4HohGKTDWMe0
+04 3 4 work com arch 1
+=1-ec2e98724f07-63b209b9-25a-90c
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1672612785
+V;kO`M`oN7h`:M36ZXSib42
+04 17 4 work mux_8_1_case_when arch 1
+=1-ec2e98724f07-63b20bb1-296-2a38
+R1
+R2
+n@_opt2
+R3
+Ecom
+Z4 w1672612270
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z6 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 21
+Z9 dD:/Projects/vhdl/lab_revision_before_exam
+Z10 8D:/Projects/vhdl/lab_revision_before_exam/comparator.vhd
+Z11 FD:/Projects/vhdl/lab_revision_before_exam/comparator.vhd
+l0
+L7 1
+V3h_IdT<OBPCNz[ABK=:f[0
+!s100 eX4S;R76LRo;hWVYb9iOb2
+Z12 OL;C;2020.4;71
+32
+Z13 !s110 1672612271
+!i10b 1
+Z14 !s108 1672612271.000000
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/lab_revision_before_exam/comparator.vhd|
+Z16 !s107 D:/Projects/vhdl/lab_revision_before_exam/comparator.vhd|
+!i113 0
+Z17 o-work work -2002 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 3 com 0 22 3h_IdT<OBPCNz[ABK=:f[0
+!i122 21
+l17
+L16 17
+VN:KfN;B7k5L<D=MSj>1Cb2
+!s100 >[LEjC55Nhk1O5ZKEXZKn2
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Edemux
+Z19 w1672611617
+R7
+R8
+!i122 18
+R9
+Z20 8D:/Projects/vhdl/lab_revision_before_exam/demux_8_1_if_else.vhd
+Z21 FD:/Projects/vhdl/lab_revision_before_exam/demux_8_1_if_else.vhd
+l0
+L5 1
+V?4Tge2MGNU2m:0gjQ90TS3
+!s100 S<GoZDFVQ?LUaZPiod`8h1
+R12
+32
+Z22 !s110 1672611618
+!i10b 1
+Z23 !s108 1672611618.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/lab_revision_before_exam/demux_8_1_if_else.vhd|
+Z25 !s107 D:/Projects/vhdl/lab_revision_before_exam/demux_8_1_if_else.vhd|
+!i113 0
+R17
+R18
+Aarch
+R7
+R8
+DEx4 work 5 demux 0 22 ?4Tge2MGNU2m:0gjQ90TS3
+!i122 18
+l15
+L13 19
+V`1QG<?FzOW2Y5<eHa[Ong0
+!s100 2XkXjNzg`3kLUgWR:=UDd0
+R12
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R17
+R18
+Eha
+Z26 w1672607121
+R7
+R8
+!i122 7
+R9
+Z27 8D:/Projects/vhdl/lab_revision_before_exam/half_adder_when_else.vhd
+Z28 FD:/Projects/vhdl/lab_revision_before_exam/half_adder_when_else.vhd
+l0
+L6 1
+V0a[bG0Xk;Jo^JLS4Z<>4:1
+!s100 cliVgmC]BWXIj4]AQ2d2X1
+R12
+32
+Z29 !s110 1672607123
+!i10b 1
+Z30 !s108 1672607123.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/lab_revision_before_exam/half_adder_when_else.vhd|
+Z32 !s107 D:/Projects/vhdl/lab_revision_before_exam/half_adder_when_else.vhd|
+!i113 0
+R17
+R18
+Aarc
+R7
+R8
+DEx4 work 2 ha 0 22 0a[bG0Xk;Jo^JLS4Z<>4:1
+!i122 7
+l16
+Z33 L15 10
+VLzkl=;_Ze=QjW[PMb3gf`0
+!s100 0NXeS6Y7hU3hZ@8iiTbUT3
+R12
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 0
+R17
+R18
+Eha_when_else
+Z34 w1672607142
+R7
+R8
+!i122 8
+R9
+R27
+R28
+l0
+L6 1
+V>jS<j]WXW18jCNPLEjL8]0
+!s100 H02PD7XjWo:bL]^SXSB[43
+R12
+32
+Z35 !s110 1672607143
+!i10b 1
+Z36 !s108 1672607143.000000
+R31
+R32
+!i113 0
+R17
+R18
+Aarc
+R7
+R8
+DEx4 work 12 ha_when_else 0 22 >jS<j]WXW18jCNPLEjL8]0
+!i122 8
+l16
+R33
+VgOAY?:PdgQYH7@z<6dNBf2
+!s100 AhzhV1QIAI61_P[?2?WlA2
+R12
+32
+R35
+!i10b 1
+R36
+R31
+R32
+!i113 0
+R17
+R18
+Emux_8_1_case_when
+Z37 w1672612777
+R5
+R6
+R7
+R8
+!i122 25
+R9
+Z38 8D:/Projects/vhdl/lab_revision_before_exam/mus_8_1_case_when.vhd
+Z39 FD:/Projects/vhdl/lab_revision_before_exam/mus_8_1_case_when.vhd
+l0
+L8 1
+VWjDHjVXK^RL8H5c]0O1PS1
+!s100 ON00fmS@j2P2I5z8j?f:R0
+R12
+32
+Z40 !s110 1672612778
+!i10b 1
+Z41 !s108 1672612778.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/lab_revision_before_exam/mus_8_1_case_when.vhd|
+Z43 !s107 D:/Projects/vhdl/lab_revision_before_exam/mus_8_1_case_when.vhd|
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 17 mux_8_1_case_when 0 22 WjDHjVXK^RL8H5c]0O1PS1
+!i122 25
+l19
+L18 19
+V7W29L0g;MhOVZe:jb`G0f3
+!s100 E]AXK2AE^4fmXMRWkfHXX3
+R12
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 0
+R17
+R18
+Ewith_select_method
+Z44 w1672607987
+R7
+R8
+!i122 16
+R9
+Z45 8D:/Projects/vhdl/lab_revision_before_exam/with_select.vhd
+Z46 FD:/Projects/vhdl/lab_revision_before_exam/with_select.vhd
+l0
+L4 1
+V:Oh6lMSUGkDaAN9;<33Ik1
+!s100 DYXMdo=b4V<Zm]UkeO;7J1
+R12
+32
+Z47 !s110 1672611576
+!i10b 1
+Z48 !s108 1672611576.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/lab_revision_before_exam/with_select.vhd|
+Z50 !s107 D:/Projects/vhdl/lab_revision_before_exam/with_select.vhd|
+!i113 0
+R17
+R18
+Aarc
+R7
+R8
+DEx4 work 18 with_select_method 0 22 :Oh6lMSUGkDaAN9;<33Ik1
+!i122 16
+l15
+L14 15
+VkNMV?H]`UAhImlNMNf6nn0
+!s100 3:ZKe2LnOa=SGe_f@9UII1
+R12
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 0
+R17
+R18

@@ -1,0 +1,22 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
+
+entity d_latch is
+port(
+ d,c:in std_logic;
+q:inout std_logic := '0'
+);
+end d_latch;
+
+architecture dl of d_latch is
+begin
+
+process(d,c)
+begin
+if c='1' then  q<= d;
+end if;
+
+end process;
+end dl;

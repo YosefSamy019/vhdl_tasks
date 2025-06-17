@@ -1,0 +1,35 @@
+
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity demux is
+port(
+ip: in std_logic;
+s:  in std_logic_vector(2 downto 0);
+op: out std_logic_vector(7 downto 0)
+);
+end demux;
+
+architecture arch of demux is
+
+begin
+
+process(ip,s)
+begin
+
+if (s = "000") then op <= "0000000" & ip; 
+elsif (s = "001") then op <= "000000" & ip &'0'; 
+elsif (s = "010") then op <= "00000" & ip & "00"; 
+elsif (s = "011") then op <= "0000" & ip& "000";  
+elsif (s = "100") then op <= "000" & ip& "0000";  
+elsif (s = "101") then op <= "00" & ip& "00000";  
+elsif (s = "110") then op <= '0'& ip& "00000";   
+elsif (s = "111") then op <= ip& "000000";   
+end if;
+
+end process
+end arch;
+
+
+
+

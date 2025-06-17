@@ -1,0 +1,55 @@
+library ieee;
+
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+use ieee.std_logic_arith.all;
+
+--Student Name : Youssef Samy Youssef Metwally
+
+entity circuit is
+port(
+	clk,clr,x: in std_logic;
+	z: out std_logic
+);
+end circuit;
+
+architecture arch of circuit is
+
+
+component jk_flip_flop is
+port(
+	j,k,clk,clr: in std_logic;
+	q: out std_logic
+);
+end component;
+
+
+signal q0,q1,q2 : std_logic;
+signal j0,k0 : std_logic ;
+signal j1,k1 : std_logic ;
+signal j2,k2 : std_logic ;
+
+
+begin
+
+j0 <= not(x) and q1;
+k0 <=  not(x) or q0;
+v2 : jk_flip_flop port map(j0,k0,clk,clr,q2);
+
+
+j1 <=  x and q0 ;
+k1 <= not(x);
+v1 : jk_flip_flop port map(j1,k1,clk,clr,q1);
+
+j2 <=  x ;
+k2 <= not(x);
+v0 : jk_flip_flop port map(j2,k2,clk,clr,q0);
+
+end process;
+
+z <= q0 and x and q2;
+
+
+end architecture;
+
+

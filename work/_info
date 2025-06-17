@@ -1,0 +1,1617 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1677059707
+VGl83EK<Q]aBNZcf?OL2oU3
+04 3 2 work bcd st 1
+=1-ec2e98724f07-63f5e67b-f5-17d8
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1683102269
+VESTDj?G1zl:H>]>z1J85R2
+04 3 4 work rom data 1
+=1-ec2e98724f07-64521a3c-1ff-2488
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1678876885
+V@IZXPl;?PC33?5V;[TQ]o0
+04 13 5 work bcd_adder_sub b_a_s 1
+=1-fc3497022663-6411a0d5-13f-754
+R1
+R2
+n@_opt2
+R3
+R0
+T_opt3
+!s110 1685264320
+VDSh^2XPZab@9QEeWfbLF72
+04 7 4 work circuit arch 1
+=1-ec2e98724f07-647317bf-332-30a4
+R1
+R2
+n@_opt3
+R3
+Ebcd
+Z4 w1677059502
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z6 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 335
+Z9 dD:/Projects/vhdl
+Z10 8D:/Projects/vhdl/bcd_adder.vhd
+Z11 FD:/Projects/vhdl/bcd_adder.vhd
+l0
+L7 1
+V^4eDo]^G^cc>@PjI5j:k00
+!s100 3Q0:R>8`0EY;RSi5@zI2z1
+Z12 OL;C;2020.4;71
+32
+Z13 !s110 1685190644
+!i10b 1
+Z14 !s108 1685190644.000000
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/bcd_adder.vhd|
+Z16 !s107 D:/Projects/vhdl/bcd_adder.vhd|
+!i113 0
+Z17 o-work work -2002 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Ast
+R5
+R6
+R7
+R8
+DEx4 work 3 bcd 0 22 ^4eDo]^G^cc>@PjI5j:k00
+!i122 335
+l31
+L16 24
+VYO]7DJ87fLT8l6X3Xo[jF3
+!s100 ;Je:fX=TNfahU]?6iaz@O1
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Ebcd_adder_sub
+Z19 w1677618352
+R5
+R6
+R7
+R8
+!i122 338
+R9
+Z20 8D:/Projects/vhdl/bcd_adder_subtractor.vhd
+Z21 FD:/Projects/vhdl/bcd_adder_subtractor.vhd
+l0
+L7 1
+V3db3eQHz^Q4B:kaffJMZL1
+!s100 GnLLXKXGdXY4>Bl>jPXIb2
+R12
+32
+Z22 !s110 1685190645
+!i10b 1
+Z23 !s108 1685190645.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/bcd_adder_subtractor.vhd|
+Z25 !s107 D:/Projects/vhdl/bcd_adder_subtractor.vhd|
+!i113 0
+R17
+R18
+Ab_a_s
+R5
+R6
+R7
+R8
+DEx4 work 13 bcd_adder_sub 0 22 3db3eQHz^Q4B:kaffJMZL1
+!i122 338
+l49
+L17 39
+VUICmmiRhOzeBX;ES?8cfR2
+!s100 5I97E0Rz9Rh6L5086[g^A1
+R12
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R17
+R18
+Ecircuit
+Z26 w1685264291
+R6
+R5
+R7
+R8
+!i122 385
+R9
+Z27 8D:/Projects/vhdl/exam_final.vhd
+Z28 FD:/Projects/vhdl/exam_final.vhd
+l0
+L9 1
+VlhlHmz5ff`cX>dA<_FS<h0
+!s100 b6b7S0[7L6LKN?KzJj^[D3
+R12
+32
+Z29 !s110 1685264301
+!i10b 1
+Z30 !s108 1685264301.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/exam_final.vhd|
+Z32 !s107 D:/Projects/vhdl/exam_final.vhd|
+!i113 0
+R17
+R18
+Aarch
+R6
+R5
+R7
+R8
+DEx4 work 7 circuit 0 22 lhlHmz5ff`cX>dA<_FS<h0
+!i122 385
+l33
+L16 38
+V[lWmAg2HFMRo5G0ckDj2P2
+!s100 KeD5XjW^9^UkEz][oMoO32
+R12
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 0
+R17
+R18
+Ecounter
+Z33 w1682504150
+R5
+R6
+R7
+R8
+!i122 348
+R9
+Z34 8D:/Projects/vhdl/up_down_counter.vhd
+Z35 FD:/Projects/vhdl/up_down_counter.vhd
+l0
+L6 1
+VjHd?LlmVVQiW`]o?UO5Q<3
+!s100 ;;4W3=IF6I^?@zI6X@SGz0
+R12
+32
+R22
+!i10b 1
+R23
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/up_down_counter.vhd|
+Z37 !s107 D:/Projects/vhdl/up_down_counter.vhd|
+!i113 0
+R17
+R18
+Adata
+R5
+R6
+R7
+R8
+DEx4 work 7 counter 0 22 jHd?LlmVVQiW`]o?UO5Q<3
+!i122 348
+l13
+L11 17
+VO7T6SUA]hYOl^OT5@n3c_1
+!s100 8d4zgm_HUzjgjOZH_COYC2
+R12
+32
+R22
+!i10b 1
+R23
+R36
+R37
+!i113 0
+R17
+R18
+Ecounterent
+Z38 w1685117322
+R5
+R6
+R7
+R8
+!i122 177
+R9
+Z39 8D:/Projects/vhdl/test_code.vhd
+Z40 FD:/Projects/vhdl/test_code.vhd
+l0
+L8 1
+V9m]d2fDjITgj0k_8nTDlg2
+!s100 >ha8kL@c__F[_OKPeQ2H`0
+R12
+32
+Z41 !s110 1685117327
+!i10b 1
+Z42 !s108 1685117327.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/test_code.vhd|
+Z44 !s107 D:/Projects/vhdl/test_code.vhd|
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 10 counterent 0 22 9m]d2fDjITgj0k_8nTDlg2
+!i122 177
+l18
+Z45 L15 23
+Vm0:d38`0gQ0]dzfo?PISU0
+!s100 UK257mz5R=7Y00WTNPIZI2
+R12
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 0
+R17
+R18
+Ed_flipflop
+Z46 w1678268404
+R5
+R6
+R7
+R8
+!i122 341
+R9
+Z47 8D:/Projects/vhdl/d_flipflop.vhd
+Z48 FD:/Projects/vhdl/d_flipflop.vhd
+l0
+L7 1
+Vcc:cLe4G:T?2_WE[Ug9e70
+!s100 @>Gz4fjY`1@If^6NN=8Zk1
+R12
+32
+R22
+!i10b 1
+R23
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/d_flipflop.vhd|
+Z50 !s107 D:/Projects/vhdl/d_flipflop.vhd|
+!i113 0
+R17
+R18
+Adff
+R5
+R6
+R7
+R8
+DEx4 work 10 d_flipflop 0 22 cc:cLe4G:T?2_WE[Ug9e70
+!i122 341
+l13
+L12 11
+Vb6Qji<=HO;bGeP>L0T`DT0
+!s100 a7m1eafMaHY0J165ECAkd2
+R12
+32
+R22
+!i10b 1
+R23
+R49
+R50
+!i113 0
+R17
+R18
+Ed_latch
+Z51 w1685116297
+R5
+R6
+R7
+R8
+!i122 340
+R9
+Z52 8D:/Projects/vhdl/d_latch.vhd
+Z53 FD:/Projects/vhdl/d_latch.vhd
+l0
+L6 1
+V5OM[2MJOgd3Si_`WJZc:o0
+!s100 64bO6AHe]c<0ZDYVC@]Uo2
+R12
+32
+R22
+!i10b 1
+R23
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/d_latch.vhd|
+Z55 !s107 D:/Projects/vhdl/d_latch.vhd|
+!i113 0
+R17
+R18
+Adl
+R5
+R6
+R7
+R8
+DEx4 work 7 d_latch 0 22 5OM[2MJOgd3Si_`WJZc:o0
+!i122 340
+l14
+L13 10
+V7XNL8:FmnMJf`zc<WozLd2
+!s100 bIAQeGS>JEzn6@BSbH01;2
+R12
+32
+R22
+!i10b 1
+R23
+R54
+R55
+!i113 0
+R17
+R18
+Edemux
+Z56 w1672310645
+R5
+R6
+R7
+R8
+!i122 33
+R9
+Z57 8D:/Projects/vhdl/demux.vhd
+Z58 FD:/Projects/vhdl/demux.vhd
+l0
+L7 1
+VElVMoY4_Rd0]^YJ:2;U961
+!s100 `=^;=_RWU[<^:7i16_UkI0
+R12
+32
+Z59 !s110 1672312575
+!i10b 1
+Z60 !s108 1672312574.000000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/demux.vhd|
+Z62 !s107 D:/Projects/vhdl/demux.vhd|
+!i113 0
+R17
+R18
+Adm
+R5
+R6
+R7
+R8
+DEx4 work 5 demux 0 22 ElVMoY4_Rd0]^YJ:2;U961
+!i122 33
+l12
+L11 14
+VhgDUAlFTaF3zFYFOD?IQX0
+!s100 [E_Ojl_<4J3afKoY@hjZc2
+R12
+32
+R59
+!i10b 1
+R60
+R61
+R62
+!i113 0
+R17
+R18
+Edff
+Z63 w1678268204
+R5
+R6
+R7
+R8
+!i122 72
+R9
+R47
+R48
+l0
+L6 1
+VV50E=L?U:XH8F@zkbQ`V]1
+!s100 m>dlMOWUlGj@DQ=a[Ug5^3
+R12
+32
+Z64 !s110 1678268210
+!i10b 1
+Z65 !s108 1678268209.000000
+R49
+R50
+!i113 0
+R17
+R18
+Ab
+R5
+R6
+R7
+R8
+DEx4 work 3 dff 0 22 V50E=L?U:XH8F@zkbQ`V]1
+!i122 72
+l11
+L10 11
+V;8D:W4F5CQ4K6MGeY5IdW2
+!s100 j4iB5OS6zAUe5[oohfohd2
+R12
+32
+R64
+!i10b 1
+R65
+R49
+R50
+!i113 0
+R17
+R18
+Edffchen
+Z66 w1685116554
+R5
+R6
+R7
+R8
+!i122 142
+R9
+R39
+R40
+l0
+L8 1
+ViiGa5hQbXIf_3_S5E`]T:3
+!s100 g8gKEAb?HYFeFjAmfGHIi0
+R12
+32
+Z67 !s110 1685116571
+!i10b 1
+Z68 !s108 1685116571.000000
+R43
+R44
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 7 dffchen 0 22 iiGa5hQbXIf_3_S5E`]T:3
+!i122 142
+l17
+L15 14
+V=2iWICG7hPWJ_DUk9Ro>g1
+!s100 Q<AUg:FCU^`cQXWaJg=F_0
+R12
+32
+R67
+!i10b 1
+R68
+R43
+R44
+!i113 0
+R17
+R18
+Edlatchen
+Z69 w1685116210
+R5
+R6
+R7
+R8
+!i122 122
+R9
+R39
+R40
+l0
+L8 1
+V<^>ZT3cT643W^7kjNd>b30
+!s100 =XJKfYg;NhR25R@KD1cIn2
+R12
+32
+Z70 !s110 1685116299
+!i10b 1
+Z71 !s108 1685116299.000000
+R43
+R44
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 8 dlatchen 0 22 <^>ZT3cT643W^7kjNd>b30
+!i122 122
+l17
+Z72 L15 15
+VY2KWA^a<DBEEKVL:4I`^40
+!s100 >81;_feXhhNe@OVR>N?@<3
+R12
+32
+R70
+!i10b 1
+R71
+R43
+R44
+!i113 0
+R17
+R18
+Eent
+Z73 w1672314540
+R5
+R6
+R7
+R8
+!i122 42
+R9
+Z74 8D:/Projects/vhdl/decoder_2_4.vhd
+Z75 FD:/Projects/vhdl/decoder_2_4.vhd
+l0
+L7 1
+V`87O^V5AXQjVh19Pjn]]k1
+!s100 @LlWcRUG9aLl12khI:QX_3
+R12
+32
+Z76 !s110 1672314564
+!i10b 1
+Z77 !s108 1672314564.000000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/decoder_2_4.vhd|
+Z79 !s107 D:/Projects/vhdl/decoder_2_4.vhd|
+!i113 0
+R17
+R18
+Aar
+R5
+R6
+R7
+R8
+DEx4 work 3 ent 0 22 `87O^V5AXQjVh19Pjn]]k1
+!i122 42
+l12
+L11 15
+VI>HoeDVLIiVePJE1IRDi?1
+!s100 DiOXMY@b1h8M7>C6zoj[b0
+R12
+32
+R76
+!i10b 1
+R77
+R78
+R79
+!i113 0
+R17
+R18
+Eex3
+Z80 w1672312673
+R5
+R6
+R7
+R8
+!i122 36
+R9
+Z81 8D:/Projects/vhdl/ex3_to_bcd.vhd
+Z82 FD:/Projects/vhdl/ex3_to_bcd.vhd
+l0
+L6 1
+VD95eOiIJJoiHS4KZZjJ?<2
+!s100 8HKbCCzYNolJYQZG6XjM10
+R12
+32
+Z83 !s110 1672312794
+!i10b 1
+Z84 !s108 1672312794.000000
+Z85 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/ex3_to_bcd.vhd|
+Z86 !s107 D:/Projects/vhdl/ex3_to_bcd.vhd|
+!i113 0
+R17
+R18
+Aar
+R5
+R6
+R7
+R8
+DEx4 work 3 ex3 0 22 D95eOiIJJoiHS4KZZjJ?<2
+!i122 36
+l11
+Z87 L10 12
+V=[k@kkfPWT4Yfa1QTa9=z0
+!s100 F<8TD558hKKRiiMBSde4_0
+R12
+32
+R83
+!i10b 1
+R84
+R85
+R86
+!i113 0
+R17
+R18
+Ef_b_a
+Z88 w1677059674
+R5
+R6
+R7
+R8
+!i122 334
+R9
+Z89 8D:/Projects/vhdl/full_bit_binary_adder.vhd
+Z90 FD:/Projects/vhdl/full_bit_binary_adder.vhd
+l0
+L6 1
+Va=AVOj7S4o7<:CCeC8c5^0
+!s100 <PMV^ba27mLh7YJi;]Do=3
+R12
+32
+R13
+!i10b 1
+R14
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/full_bit_binary_adder.vhd|
+Z92 !s107 D:/Projects/vhdl/full_bit_binary_adder.vhd|
+!i113 0
+R17
+R18
+Ast
+R5
+R6
+R7
+R8
+DEx4 work 5 f_b_a 0 22 a=AVOj7S4o7<:CCeC8c5^0
+!i122 334
+l24
+R72
+VEX2HX_j>3DJ`LU_Jl@^Q81
+!s100 knIXXNd34314V?>cfl]P71
+R12
+32
+R13
+!i10b 1
+R14
+R91
+R92
+!i113 0
+R17
+R18
+Efulladder
+Z93 w1678266908
+R5
+R6
+R7
+R8
+!i122 339
+R9
+Z94 8D:/Projects/vhdl/full_adder.vhd
+Z95 FD:/Projects/vhdl/full_adder.vhd
+l0
+L7 1
+VIddN4==gAD^jU27A4mUSR2
+!s100 N7`[gjI_bP5n5TCjACJ]K0
+R12
+32
+R22
+!i10b 1
+R23
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/full_adder.vhd|
+Z97 !s107 D:/Projects/vhdl/full_adder.vhd|
+!i113 0
+R17
+R18
+Afa
+R5
+R6
+R7
+R8
+DEx4 work 9 fulladder 0 22 IddN4==gAD^jU27A4mUSR2
+!i122 339
+l14
+Z98 L13 5
+V>IM=B6]]Y1PA]8>M`0]e50
+!s100 d50`Q;MT[n^kQ0:NoUO=X2
+R12
+32
+R22
+!i10b 1
+R23
+R96
+R97
+!i113 0
+R17
+R18
+Efulladderent
+Z99 w1685113502
+R5
+R6
+R7
+R8
+!i122 120
+R9
+R39
+R40
+l0
+L8 1
+VL`D]P]gj>i1Lo[;:nmJO30
+!s100 hO;AOBWMT<f:PKG:5CNO;2
+R12
+32
+Z100 !s110 1685113505
+!i10b 1
+Z101 !s108 1685113505.000000
+R43
+R44
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 12 fulladderent 0 22 L`D]P]gj>i1Lo[;:nmJO30
+!i122 120
+l27
+L17 19
+VS9TfAmeD0]2>hIJ<e^WaX3
+!s100 ]g2c9j^5Q]:lj`RTiO1cU2
+R12
+32
+R100
+!i10b 1
+R101
+R43
+R44
+!i113 0
+R17
+R18
+Ejk_flip_flop
+Z102 w1685261948
+R6
+R5
+R7
+R8
+!i122 386
+R9
+Z103 8D:/Projects/vhdl/jk_flip_flop.vhd
+Z104 FD:/Projects/vhdl/jk_flip_flop.vhd
+l0
+L11 1
+V7cE;S3QPc5?4RSWQAUCn;2
+!s100 FESjo7:zIc[;UP3Go9XV_2
+R12
+32
+R29
+!i10b 1
+R30
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/jk_flip_flop.vhd|
+Z106 !s107 D:/Projects/vhdl/jk_flip_flop.vhd|
+!i113 0
+R17
+R18
+Aarch
+R6
+R5
+R7
+R8
+DEx4 work 12 jk_flip_flop 0 22 7cE;S3QPc5?4RSWQAUCn;2
+!i122 386
+l22
+L18 19
+VLS1GXBVhf2eKdIUg@5IW11
+!s100 YLA6Q9T`A]edIe8kKgPXj0
+R12
+32
+R29
+!i10b 1
+R30
+R105
+R106
+!i113 0
+R17
+R18
+Ejk_flipflop
+Z107 w1678269933
+R5
+R6
+R7
+R8
+!i122 342
+R9
+Z108 8D:/Projects/vhdl/jk_flipflop.vhd
+Z109 FD:/Projects/vhdl/jk_flipflop.vhd
+l0
+L8 1
+VRiBSL:Vh4adKmI9O98nmI2
+!s100 Rf?Lee^YVz3eec<ad]Um90
+R12
+32
+R22
+!i10b 1
+R23
+Z110 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/jk_flipflop.vhd|
+Z111 !s107 D:/Projects/vhdl/jk_flipflop.vhd|
+!i113 0
+R17
+R18
+Ajkff
+R5
+R6
+R7
+R8
+DEx4 work 11 jk_flipflop 0 22 RiBSL:Vh4adKmI9O98nmI2
+!i122 342
+l16
+L15 19
+V5mQ6_U@zm>XlO<kA?[5=^0
+!s100 LgZ^D=^IknYgjO38g5[OM1
+R12
+32
+R22
+!i10b 1
+R23
+R110
+R111
+!i113 0
+R17
+R18
+Emores
+Z112 w1685187569
+R5
+R6
+R7
+R8
+!i122 298
+R9
+R39
+R40
+l0
+L8 1
+VdTP0>X@Nob;G;=f=M>Jb11
+!s100 Q>f0BoNkm`ia2V=_zlMn>0
+R12
+32
+Z113 !s110 1685187571
+!i10b 1
+Z114 !s108 1685187571.000000
+R43
+R44
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 5 mores 0 22 dTP0>X@Nob;G;=f=M>Jb11
+!i122 298
+l20
+L15 32
+VDg9]l:8[gXSEd;LQNd:be3
+!s100 DS_i45^h<J3om5zB0i]FH3
+R12
+32
+R113
+!i10b 1
+R114
+R43
+R44
+!i113 0
+R17
+R18
+Emux
+Z115 w1672308537
+R5
+R6
+R7
+R8
+!i122 32
+R9
+Z116 8D:/Projects/vhdl/mux.vhd
+Z117 FD:/Projects/vhdl/mux.vhd
+l0
+L6 1
+V6[U1HlMO866<[>ZgBOR;E2
+!s100 zVHLPYM6L[;oEMDFILB<K3
+R12
+32
+Z118 !s110 1672312574
+!i10b 1
+R60
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/mux.vhd|
+Z120 !s107 D:/Projects/vhdl/mux.vhd|
+!i113 0
+R17
+R18
+Am
+R5
+R6
+R7
+R8
+DEx4 work 3 mux 0 22 6[U1HlMO866<[>ZgBOR;E2
+!i122 32
+l11
+L10 13
+VV==f@_[ZF_DgX_DGKn3Xz3
+!s100 ^DVH55e_RBzA:CWk7QlO^2
+R12
+32
+R118
+!i10b 1
+R60
+R119
+R120
+!i113 0
+R17
+R18
+Emy_exor
+Z121 w1671922547
+R7
+R8
+!i122 30
+R9
+Z122 8D:/Projects/vhdl/fdsfds.vhd
+Z123 FD:/Projects/vhdl/fdsfds.vhd
+l0
+L5 1
+VAfHHdMP<6bk4AW?ee]1VB1
+!s100 78TkS6<9YZMUD9O50_[@V2
+R12
+32
+R118
+!i10b 1
+R60
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/fdsfds.vhd|
+Z125 !s107 D:/Projects/vhdl/fdsfds.vhd|
+!i113 0
+R17
+R18
+Amy_exor_beh
+R7
+R8
+DEx4 work 7 my_exor 0 22 AfHHdMP<6bk4AW?ee]1VB1
+!i122 30
+l15
+R98
+VV7LIcJ]8_o=QC<gOhNZLF3
+!s100 L>o20lWnYLZLa0bdCNJzl1
+R12
+32
+R118
+!i10b 1
+R60
+R124
+R125
+!i113 0
+R17
+R18
+Emy_exor2
+Z126 w1672306960
+R7
+R8
+!i122 31
+R9
+Z127 8D:/Projects/vhdl/vsfdfddf.vhd
+Z128 FD:/Projects/vhdl/vsfdfddf.vhd
+l0
+L6 1
+Vmzi8V8>lDL_H3?EM;Z^;@0
+!s100 [0H[KOFT@Q1fZb6dnlkoO3
+R12
+32
+R118
+!i10b 1
+R60
+Z129 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/vsfdfddf.vhd|
+Z130 !s107 D:/Projects/vhdl/vsfdfddf.vhd|
+!i113 0
+R17
+R18
+Amy_exor_beh2
+R7
+R8
+DEx4 work 8 my_exor2 0 22 mzi8V8>lDL_H3?EM;Z^;@0
+!i122 31
+l16
+L14 5
+V8o^d^AC=;ZAY?i76mW7K52
+!s100 g0a:8ongXhJ1SMU4[jJ_L0
+R12
+32
+R118
+!i10b 1
+R60
+R129
+R130
+!i113 0
+R17
+R18
+Enine_com
+Z131 w1677616846
+R5
+R6
+R7
+R8
+!i122 336
+R9
+Z132 8D:/Projects/vhdl/nine_complement.vhd
+Z133 FD:/Projects/vhdl/nine_complement.vhd
+l0
+L7 1
+VBLIAQR1RAN`7zgb9GlgEB0
+!s100 ?Daf]K^:<L<k]1e8NAQ0T0
+R12
+32
+R22
+!i10b 1
+R23
+Z134 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/nine_complement.vhd|
+Z135 !s107 D:/Projects/vhdl/nine_complement.vhd|
+!i113 0
+R17
+R18
+Anc
+R5
+R6
+R7
+R8
+DEx4 work 8 nine_com 0 22 BLIAQR1RAN`7zgb9GlgEB0
+!i122 336
+l15
+L14 4
+VU7P3VWN4nON?@<J=4immz2
+!s100 Yc94`hRa:`kl9CnNH]gEz1
+R12
+32
+R22
+!i10b 1
+R23
+R134
+R135
+!i113 0
+R17
+R18
+Equad_2_to_1_mux
+Z136 w1677617406
+R5
+R6
+R7
+R8
+!i122 337
+R9
+Z137 8D:/Projects/vhdl/quad_2to1_mux.vhd
+Z138 FD:/Projects/vhdl/quad_2to1_mux.vhd
+l0
+L6 1
+VFj[9R15;XnjA4WGC2hzn90
+!s100 6]K0Y1EUKK_[6F3WZL>lO0
+R12
+32
+R22
+!i10b 1
+R23
+Z139 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/quad_2to1_mux.vhd|
+Z140 !s107 D:/Projects/vhdl/quad_2to1_mux.vhd|
+!i113 0
+R17
+R18
+Aqm
+R5
+R6
+R7
+R8
+DEx4 work 15 quad_2_to_1_mux 0 22 Fj[9R15;XnjA4WGC2hzn90
+!i122 337
+l16
+Z141 L15 6
+V2a0IhWGU0^:jO?2m4Hb4[0
+!s100 RG<7;:FQoonMoB@hNXThU0
+R12
+32
+R22
+!i10b 1
+R23
+R139
+R140
+!i113 0
+R17
+R18
+Eripple_counter
+Z142 w1683102736
+R5
+R6
+R7
+R8
+!i122 347
+R9
+Z143 8D:/Projects/vhdl/ripple_counter.vhd
+Z144 FD:/Projects/vhdl/ripple_counter.vhd
+l0
+L7 1
+V^fbL@n_aN2jH08gBPlQN52
+!s100 ZfSzHF@z3>WjhI6[F=Ih@3
+R12
+32
+R22
+!i10b 1
+R23
+Z145 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/ripple_counter.vhd|
+Z146 !s107 D:/Projects/vhdl/ripple_counter.vhd|
+!i113 0
+R17
+R18
+Adata
+R5
+R6
+R7
+R8
+DEx4 work 14 ripple_counter 0 22 ^fbL@n_aN2jH08gBPlQN52
+!i122 347
+l24
+L13 23
+V9Fg3AgcFC5MaJ2kZ9UMh<0
+!s100 8UXzi`R13:@zM=j=CM=fV1
+R12
+32
+R22
+!i10b 1
+R23
+R145
+R146
+!i113 0
+R17
+R18
+Erom
+Z147 w1683103070
+R5
+R6
+R7
+R8
+!i122 349
+R9
+Z148 8D:/Projects/vhdl/rom.vhd
+Z149 FD:/Projects/vhdl/rom.vhd
+l0
+L7 1
+V86n_bn<XJTFVfzN3o:8=h1
+!s100 1Umn7o=;9Mzj9T1<6hf=B3
+R12
+32
+R22
+!i10b 1
+R23
+Z150 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/rom.vhd|
+Z151 !s107 D:/Projects/vhdl/rom.vhd|
+!i113 0
+R17
+R18
+Adata
+R5
+R6
+R7
+R8
+DEx4 work 3 rom 0 22 86n_bn<XJTFVfzN3o:8=h1
+!i122 349
+l26
+R45
+Vfo9]@8TDnRJ9eVZZ@Fm1z1
+!s100 ;XTR6ahaZS^UiQmf8Nf522
+R12
+32
+R22
+!i10b 1
+R23
+R150
+R151
+!i113 0
+R17
+R18
+Errom
+Z152 w1685190642
+R5
+R6
+R7
+R8
+!i122 350
+R9
+R39
+R40
+l0
+L8 1
+V:Ul[RW[GiO43o;DE>XOME1
+!s100 @4QE_FM9Z3QUEX7g`h7kT1
+R12
+32
+R22
+!i10b 1
+R23
+R43
+R44
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 4 rrom 0 22 :Ul[RW[GiO43o;DE>XOME1
+!i122 350
+l28
+L16 26
+VXWZP`lcDZIc@JY<`?:3bM2
+!s100 SZdUW?B^OY;:AO161;YWh1
+R12
+32
+R22
+!i10b 1
+R23
+R43
+R44
+!i113 0
+R17
+R18
+Eserial_adder
+Z153 w1678859134
+R5
+R6
+R7
+R8
+!i122 343
+R9
+Z154 8D:/Projects/vhdl/serial_adder.vhd
+Z155 FD:/Projects/vhdl/serial_adder.vhd
+l0
+L7 1
+VAdAYg?]efWYM18k=<Db?l0
+!s100 TIoX8k`[aUSMaXT?az:nO0
+R12
+32
+R22
+!i10b 1
+R23
+Z156 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/serial_adder.vhd|
+Z157 !s107 D:/Projects/vhdl/serial_adder.vhd|
+!i113 0
+R17
+R18
+Asa
+R5
+R6
+R7
+R8
+DEx4 work 12 serial_adder 0 22 AdAYg?]efWYM18k=<Db?l0
+!i122 343
+l17
+L14 17
+VAH^f`Oj8kbf3Z:6hQo;lI3
+!s100 ldM>CPTg@`fbfWjkgbY8;3
+R12
+32
+R22
+!i10b 1
+R23
+R156
+R157
+!i113 0
+R17
+R18
+Eserialaddderent
+Z158 w1685120054
+R5
+R6
+R7
+R8
+!i122 230
+R9
+R39
+R40
+l0
+L8 1
+VBZXck9^_fU7nMTMKF>doZ1
+!s100 UlJVjSK[l[?2=h2H;]3Z60
+R12
+32
+Z159 !s110 1685120056
+!i10b 1
+Z160 !s108 1685120056.000000
+R43
+R44
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 15 serialaddderent 0 22 BZXck9^_fU7nMTMKF>doZ1
+!i122 230
+l19
+L15 17
+V?3S2;3:E^TGKfdff9`A952
+!s100 ah_mC@11meFfL>l70OXmg1
+R12
+32
+R159
+!i10b 1
+R160
+R43
+R44
+!i113 0
+R17
+R18
+Esiso
+Z161 w1685118520
+R5
+R6
+R7
+R8
+!i122 345
+R9
+Z162 8D:/Projects/vhdl/siso_shift_register.vhd
+Z163 FD:/Projects/vhdl/siso_shift_register.vhd
+l0
+L7 1
+Vo@8NO`^[bKYEbNlP><?Bf1
+!s100 :z?j7olE?VgTKOKWSO8k_0
+R12
+32
+R22
+!i10b 1
+R23
+Z164 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/siso_shift_register.vhd|
+Z165 !s107 D:/Projects/vhdl/siso_shift_register.vhd|
+!i113 0
+R17
+R18
+Adata
+R5
+R6
+R7
+R8
+DEx4 work 4 siso 0 22 o@8NO`^[bKYEbNlP><?Bf1
+!i122 345
+l17
+R72
+V8Cd4P7zoUA?PmIVzfz_6V3
+!s100 2o9MmUljcbCLQ]UD[Z4di1
+R12
+32
+R22
+!i10b 1
+R23
+R164
+R165
+!i113 0
+R17
+R18
+Esisoent
+Z166 w1685118726
+R5
+R6
+R7
+R8
+!i122 195
+R9
+R39
+R40
+l0
+L8 1
+V`76gYJCZ`X=l3C]fZJD4i3
+!s100 M4iEDT4RVCV;AnUV_@VD;2
+R12
+32
+Z167 !s110 1685118732
+!i10b 1
+Z168 !s108 1685118731.000000
+R43
+R44
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 7 sisoent 0 22 `76gYJCZ`X=l3C]fZJD4i3
+!i122 195
+l19
+L15 18
+VU[lPHNKY66OIH`>3co]e52
+!s100 <HO_ISYf]CzIHf`AGlRf32
+R12
+32
+R167
+!i10b 1
+R168
+R43
+R44
+!i113 0
+R17
+R18
+Esm
+Z169 w1678875338
+R5
+R6
+R7
+R8
+!i122 344
+R9
+Z170 8D:/Projects/vhdl/moore_circuit_lab.vhd
+Z171 FD:/Projects/vhdl/moore_circuit_lab.vhd
+l0
+L7 1
+V8AaJ[m;KFPW7nLR9NkZYi3
+!s100 ?<AN>JoAbW[O1C9FC7FXj0
+R12
+32
+R22
+!i10b 1
+R23
+Z172 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/moore_circuit_lab.vhd|
+Z173 !s107 D:/Projects/vhdl/moore_circuit_lab.vhd|
+!i113 0
+R17
+R18
+Adata
+R5
+R6
+R7
+R8
+DEx4 work 2 sm 0 22 8AaJ[m;KFPW7nLR9NkZYi3
+!i122 344
+l18
+L14 50
+VASgjCihoXjIFTP3d6CcYe3
+!s100 W^<`9S5UJEEOkWkUJ[zHP0
+R12
+32
+R22
+!i10b 1
+R23
+R172
+R173
+!i113 0
+R17
+R18
+Et_flipflop
+Z174 w1683059236
+R5
+R6
+R7
+R8
+!i122 346
+R9
+Z175 8D:/Projects/vhdl/t_flip_flop.vhd
+Z176 FD:/Projects/vhdl/t_flip_flop.vhd
+l0
+L7 1
+V3YRJMJNF_I2I5koI;WLFL0
+!s100 Ol=V1O?MNNaFLL7ojaY7[0
+R12
+32
+R22
+!i10b 1
+R23
+Z177 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/t_flip_flop.vhd|
+Z178 !s107 D:/Projects/vhdl/t_flip_flop.vhd|
+!i113 0
+R17
+R18
+Atff
+R5
+R6
+R7
+R8
+DEx4 work 10 t_flipflop 0 22 3YRJMJNF_I2I5koI;WLFL0
+!i122 346
+l15
+L13 17
+V:fmDA<@ST_fA>gTd27K]_3
+!s100 FiNaXaicQm`]kWC2AKOa<1
+R12
+32
+R22
+!i10b 1
+R23
+R177
+R178
+!i113 0
+R17
+R18
+Etest
+Z179 w1672313629
+R5
+R6
+R7
+R8
+!i122 38
+R9
+Z180 8D:/Projects/vhdl/test.vhd
+Z181 FD:/Projects/vhdl/test.vhd
+l0
+L6 1
+V<NbNF?gVa<[hn5U7c51BW2
+!s100 :8kzIR:a_eOTFZ=g9lZ>S1
+R12
+32
+Z182 !s110 1672313634
+!i10b 1
+Z183 !s108 1672313634.000000
+Z184 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|D:/Projects/vhdl/test.vhd|
+Z185 !s107 D:/Projects/vhdl/test.vhd|
+!i113 0
+R17
+R18
+Aar
+R5
+R6
+R7
+R8
+DEx4 work 4 test 0 22 <NbNF?gVa<[hn5U7c51BW2
+!i122 38
+l11
+R87
+V2mKdFM8Zf21ZZjzAMQ3]E3
+!s100 58G@jW3WUYOhnJc@eGooM1
+R12
+32
+R182
+!i10b 1
+R183
+R184
+R185
+!i113 0
+R17
+R18
+Etestent
+Z186 w1685112260
+R5
+R6
+R7
+R8
+!i122 117
+R9
+R39
+R40
+l0
+L8 1
+VPfB[i]MT40nP8AZ:Z88680
+!s100 @n4bJ7QU7a@1mW3dDljeH2
+R12
+32
+Z187 !s110 1685112266
+!i10b 1
+Z188 !s108 1685112266.000000
+R43
+R44
+!i113 0
+R17
+R18
+Aarch
+R5
+R6
+R7
+R8
+DEx4 work 7 testent 0 22 PfB[i]MT40nP8AZ:Z88680
+!i122 117
+l16
+R141
+V:Q4D;_f7SHikg3M2M28[h0
+!s100 f@4]e]e@0T:44mnabj<Ek1
+R12
+32
+R187
+!i10b 1
+R188
+R43
+R44
+!i113 0
+R17
+R18

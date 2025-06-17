@@ -1,0 +1,59 @@
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
+
+entity bcd_adder_sub is
+port(
+ input_one: in std_logic_vector(3 downto 0);
+ input_two: in std_logic_vector(3 downto 0);
+ cin : in std_logic;
+ output: out std_logic_vector(3 downto 0);
+ cout : out std_logic
+);
+end bcd_adder_sub;
+
+architecture b_a_s of bcd_adder_sub is
+
+
+component nine_com is
+port(
+ input: in std_logic_vector(3 downto 0);
+ output: out std_logic_vector(3 downto 0)
+);
+end component;
+
+component bcd is
+port(
+a,b: in std_logic_vector(3 downto 0);
+cin: in std_logic;
+sum: out std_logic_vector(3 downto 0);
+cout: out std_logic
+);
+end component;
+
+
+component quad_2_to_1_mux is
+port(
+ sel: in std_logic;
+ input_one: in std_logic_vector(3 downto 0);
+ input_two: in std_logic_vector(3 downto 0);
+ output: out std_logic_vector(3 downto 0)
+);
+end component;
+
+signal input_two_com: std_logic_vector(3 downto 0);
+signal input_two_selected: std_logic_vector(3 downto 0);
+
+begin
+	
+	v0: nine_com  port map (input_two,input_two_com);
+	v1: quad_2_to_1_mux port map  (cin,input_two,input_two_com,input_two_selected);
+	v2: bcd port map (input_one,input_two_selected,cin,output,cout);
+	
+end b_a_s;
+
+
+
+

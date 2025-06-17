@@ -1,0 +1,22 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_arith.all;
+use IEEE.std_logic_unsigned.all;
+
+entity Test is
+port(ip :in std_logic_vector(2 downto 0);op :out std_logic_vector(2 downto 0));
+end Test;
+
+architecture Ar of Test is 
+begin
+process (ip)
+begin
+
+if( ip >= "000" and ip<= "011") then op <= ip + 1 ;
+else op <= ip - 2;
+end if;
+
+
+end process;
+end Ar;
+
